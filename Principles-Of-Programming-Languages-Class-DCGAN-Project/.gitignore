@@ -1,0 +1,7 @@
+/.history
+/venv
+.vscode/*
+# models/*
+tutorials/
+test/
+test_classmate/

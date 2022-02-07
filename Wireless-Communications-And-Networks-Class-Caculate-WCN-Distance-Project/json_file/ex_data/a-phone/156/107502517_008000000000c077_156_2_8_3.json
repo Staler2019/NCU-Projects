@@ -1,0 +1,68 @@
+{
+    "result": {
+        "uplinkFrames": [
+            {
+                "txInfo": {
+                    "frequency": 923200000,
+                    "dataRate": {
+                        "modulation": "LORA",
+                        "bandwidth": 125,
+                        "spreadFactor": 10,
+                        "bitrate": 0
+                    },
+                    "codeRate": "4/5"
+                },
+                "rxInfo": [
+                    {
+                        "mac": "00800000a0000a1c",
+                        "time": "2021-10-18T07:47:50.235011Z",
+                        "timeSinceGPSEpoch": "",
+                        "timestamp": 3533185156,
+                        "rssi": -95,
+                        "loRaSNR": -7.2,
+                        "board": 0,
+                        "antenna": 0
+                    },
+                    {
+                        "mac": "00800000a0000ed1",
+                        "time": "2021-10-18T07:38:35.334663Z",
+                        "timeSinceGPSEpoch": "",
+                        "timestamp": 2555608508,
+                        "rssi": -90,
+                        "loRaSNR": -11.2,
+                        "board": 0,
+                        "antenna": 0
+                    }
+                ],
+                "phyPayloadJSON": {
+                    "mhdr": {
+                        "mType": "ConfirmedDataUp",
+                        "major": "LoRaWANR1"
+                    },
+                    "macPayload": {
+                        "fhdr": {
+                            "devAddr": "06fb67c9",
+                            "fCtrl": {
+                                "adr": false,
+                                "adrAckReq": false,
+                                "ack": false,
+                                "fPending": false,
+                                "classB": false
+                            },
+                            "fCnt": 518,
+                            "fOpts": null
+                        },
+                        "fPort": 1,
+                        "frmPayload": [
+                            {
+                                "bytes": "wefp"
+                            }
+                        ]
+                    },
+                    "mic": "d38b80ec"
+                }
+            }
+        ],
+        "downlinkFrames": []
+    }
+}

@@ -1,0 +1,6 @@
+7697 <-> MCS <-> server <-> client
+
+7697+MCS: 上傳資料
+server: client往server送request, server往client送returnReq
+client: 語音辨識與語音合成
+

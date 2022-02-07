@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox onKeyPressed="#checkEnterPressed" prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="game.BBTANGENTController">
+  <children>
+    <AnchorPane fx:id="_start_pane" maxHeight="-1.0" maxWidth="-1.0" onMouseClicked="#onStartPressed" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+      <children>
+        <Label fx:id="_tap_word" alignment="CENTER" layoutX="124.0" layoutY="691.0" onMouseClicked="#onStartPressed" style="&#10;" text="Tap Screen to Start" textAlignment="CENTER" wrapText="false" AnchorPane.leftAnchor="124.0" AnchorPane.topAnchor="691.0">
+          <font>
+            <Font size="18.0" />
+          </font>
+        </Label>
+            <Button fx:id="_info_btn" layoutX="341.0" layoutY="755.0" mnemonicParsing="false" onAction="#onInfoPressed" text="Info" AnchorPane.bottomAnchor="14.714311930598956" AnchorPane.rightAnchor="14.714297829842515">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <GridPane fx:id="_score_pane" gridLinesVisible="true" layoutX="75.0" layoutY="168.0" prefHeight="45.0" prefWidth="249.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+            </GridPane>
+            <Label fx:id="_title" layoutX="127.0" layoutY="99.0" text="BBTANGENT" AnchorPane.leftAnchor="124.0" AnchorPane.topAnchor="99.0">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="_scoreboard" layoutX="113.0" layoutY="177.0" text="Highest: score, name">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+      </children>
+    </AnchorPane>
+  </children>
+</VBox>

@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+test.py
+Term_Project_108502571_楊佳峻.docx
+108502575.py
+
+# Local History for Visual Studio Code
+/.history
+
+# training data
+/handwrite__detect

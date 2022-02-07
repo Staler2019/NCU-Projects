@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc hw2.c -o ./exe/hw2.out && ./exe/hw2.out"

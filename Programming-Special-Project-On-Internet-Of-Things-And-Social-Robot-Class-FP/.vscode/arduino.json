@@ -1,0 +1,5 @@
+{
+    "board": "LinkIt:linkit_rtos:linkit_7697",
+    "port": "COM4",
+    "sketch": "linkit\\linkit.ino"
+}
