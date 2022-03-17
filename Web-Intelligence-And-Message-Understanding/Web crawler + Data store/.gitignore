@@ -1,0 +1,13 @@
+# folder
+.idea/*
+.bk/*
+**/__pycache__/*
+data/*
+answer/*
+
+# file type
+*.txt
+view/*.py
+
+# specific file
+tmp.py
