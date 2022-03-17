@@ -1,6 +1,6 @@
-from res.crawler import crawler_run
-from res.load import load2_elasticsearch
-from res.search import query
+from src.crawler import crawler_run
+from src.load import load2_elasticsearch
+from src.search import query
 
 
 if __name__ == "__main__":
