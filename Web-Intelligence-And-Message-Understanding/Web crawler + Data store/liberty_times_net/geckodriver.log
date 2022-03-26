@@ -1,0 +1,650 @@
+1648265357907	geckodriver	INFO	Listening on 127.0.0.1:62748
+1648265360976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62749" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilep36do6"
+1648265361720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilep36do6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62749/devtools/browser/12545aff-4340-47cc-907e-9301702c4c4d
+1648265365683	Marionette	INFO	Listening on port 62755
+1648265365853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://news.ltn.com.tw"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/njEQSFvQmVZPXGz1GqDnvx6UYUmy29w-ZdzcuuIp78M.js line 1 > eval line 6582 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 436: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 436: TypeError: channel is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vukqqZMEwiKfO5iIQC2Qvig_P1EBwRi6HH-n7W3xhSE.js line 1 > eval line 4930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vukqqZMEwiKfO5iIQC2Qvig_P1EBwRi6HH-n7W3xhSE.js line 1 > eval line 3800 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://player.svc.litv.tv/v3/ppnio.js, line 2: TypeError: A is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648284326205	Marionette	INFO	Stopped listening on port 62755
+[Parent 5868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1648281867848	geckodriver	INFO	Listening on 127.0.0.1:60148
+1648281870930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60149" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileUKK95m"
+1648281871453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileUKK95m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60149/devtools/browser/002ff467-3317-432d-9da4-dd612fed0f46
+1648281874593	Marionette	INFO	Listening on port 60155
+1648281874662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648281878024	Marionette	INFO	Stopped listening on port 60155
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/jUu3kdT5xDO.js?_nc_x=Ij3Wp8lg5Kz, line 142: Error: Destroyed!
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\abcd1\AppData\Local\Temp\rust_mozprofileUKK95m\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648281891758	geckodriver	INFO	Listening on 127.0.0.1:60294
+1648281894868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60295" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileK22JqP"
+1648281895435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileK22JqP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60295/devtools/browser/7c171ea5-59f8-4000-a712-a8c05f7c9815
+1648281898614	Marionette	INFO	Listening on port 60300
+1648281899107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vukqqZMEwiKfO5iIQC2Qvig_P1EBwRi6HH-n7W3xhSE.js line 1 > eval line 3536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 436: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 436: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648281999964	Marionette	INFO	Stopped listening on port 60300
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1648282110572	geckodriver	INFO	Listening on 127.0.0.1:60771
+1648282113667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60772" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileVyw2Pj"
+1648282114145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileVyw2Pj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60772/devtools/browser/43f1e947-a847-42db-9a23-e5657983d8f6
+1648282117291	Marionette	INFO	Listening on port 60779
+1648282117398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vukqqZMEwiKfO5iIQC2Qvig_P1EBwRi6HH-n7W3xhSE.js line 1 > eval line 7535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7592, MediaDecoderStateMachine #2] WARNING: 1bd9d9e44a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7592, MediaDecoderStateMachine #3] WARNING: 1bd9effc120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648284326682	Marionette	INFO	Stopped listening on port 60779
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648284327176	Marionette	INFO	Stopped listening on port 61054
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+283900094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileeXfO9d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54646/devtools/browser/9746f0f5-ba69-4d2c-93d3-bf671006fd91
+1648283903282	Marionette	INFO	Listening on port 54651
+1648283903374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error writing response to: getEmbedderElement"
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "node.ownerDocument.csp is null"
+console.error: (new TypeError("node.ownerDocument.csp is null", "resource://devtools/shared/layout/utils.js", 919))
+console.error: "Failed to start [root-node] legacy listener for target server0.conn0.windowGlobal2147483653/windowGlobalTarget2" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648285825031	geckodriver	INFO	Listening on 127.0.0.1:55551
+1648285828167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55552" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewnRDWq"
+1648285828853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewnRDWq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55552/devtools/browser/d9035f70-cc84-4c7c-959d-bddbb7fa90f6
+1648285832542	Marionette	INFO	Listening on port 55573
+1648285833037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648285888045	Marionette	INFO	Stopped listening on port 55573
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rtificate errors will be ignored for this session
+1648285887553	Marionette	INFO	Stopped listening on port 55687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648285950159	geckodriver	INFO	Listening on 127.0.0.1:55823
+1648285953316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55824" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile2B9jkO"
+1648285954056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile2B9jkO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55824/devtools/browser/7cb9e667-0079-432d-a03e-fa8e47308e9e
+1648285957422	Marionette	INFO	Listening on port 55829
+1648285957555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286000676	Marionette	INFO	Stopped listening on port 55829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile6CjnP9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55928/devtools/browser/d7dc98a2-c9cf-428a-98db-bffeabd9ccfe
+1648285988364	Marionette	INFO	Listening on port 55933
+1648285988864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286000197	Marionette	INFO	Stopped listening on port 55933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648286073500	geckodriver	INFO	Listening on 127.0.0.1:61558
+1648286076632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61559" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofiletLEXWt"
+1648286077129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofiletLEXWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61559/devtools/browser/37f03c1c-1e84-4ac5-947b-575377a74f7d
+1648286080749	Marionette	INFO	Listening on port 61564
+1648286080875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286083928	Marionette	INFO	Stopped listening on port 61564
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648286146810	geckodriver	INFO	Listening on 127.0.0.1:61682
+1648286149918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61683" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMvCB6f"
+1648286150323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMvCB6f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61683/devtools/browser/af309a55-4c6d-43d2-96b8-49c0f3b02dc8
+1648286153428	Marionette	INFO	Listening on port 61689
+1648286153635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286155278	Marionette	INFO	Stopped listening on port 61689
+1648286289473	geckodriver	INFO	Listening on 127.0.0.1:61844
+1648286292578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61845" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMyUMc5"
+1648286293170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMyUMc5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61845/devtools/browser/b8b5ec70-a8d4-4968-af70-289789fa6c77
+1648286296295	Marionette	INFO	Listening on port 61850
+1648286296825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286298521	Marionette	INFO	Stopped listening on port 61850
+1648286331369	geckodriver	INFO	Listening on 127.0.0.1:61948
+1648286334511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61949" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMGznER"
+1648286334989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMGznER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61949/devtools/browser/a70baafa-83d1-48ed-b265-d1f75de8cffa
+1648286337977	Marionette	INFO	Listening on port 61954
+1648286338229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286357162	geckodriver	INFO	Listening on 127.0.0.1:62039
+1648286360272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62040" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilefskUto"
+1648286360886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilefskUto\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62040/devtools/browser/7fe09e7d-4b8e-451f-b4eb-405016407183
+1648286363773	Marionette	INFO	Listening on port 62045
+1648286364012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286366332	Marionette	INFO	Stopped listening on port 62045
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\abcd1\AppData\Local\Temp\rust_mozprofilefskUto\protections.sqlite
+1648286403832	geckodriver	INFO	Listening on 127.0.0.1:62158
+1648286406923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62159" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileqH3RcQ"
+1648286407360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileqH3RcQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62159/devtools/browser/18dbad0d-59be-4e78-a2cd-9af12b9baba4
+1648286410327	Marionette	INFO	Listening on port 62164
+1648286410656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286412198	Marionette	INFO	Stopped listening on port 62164
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648286519160	geckodriver	INFO	Listening on 127.0.0.1:62308
+1648286522291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62309" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileZUm9Mk"
+1648286522898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileZUm9Mk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62309/devtools/browser/c4294d9c-a492-4d2d-84d2-b1778f3d848c
+1648286526205	Marionette	INFO	Listening on port 62316
+1648286526572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286694784	Marionette	INFO	Stopped listening on port 62316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62411" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilePn1Eep"
+1648286558319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilePn1Eep\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62411/devtools/browser/35a5310a-409b-4063-b28f-16b9788f2e5a
+1648286561510	Marionette	INFO	Listening on port 62416
+1648286562034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286563761	Marionette	INFO	Stopped listening on port 62416
+1648286583116	geckodriver	INFO	Listening on 127.0.0.1:62507
+1648286586264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62508" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile1w1t2p"
+1648286586963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile1w1t2p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62508/devtools/browser/b280075f-373c-42ed-bfac-296ad01efedf
+1648286590321	Marionette	INFO	Listening on port 62513
+1648286590537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286592182	Marionette	INFO	Stopped listening on port 62513
+1648286616804	geckodriver	INFO	Listening on 127.0.0.1:62619
+1648286619912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62620" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileDYOVpl"
+1648286620368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileDYOVpl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62620/devtools/browser/33e57bc9-35ef-4378-a4a2-edb53009a9b4
+1648286623692	Marionette	INFO	Listening on port 62625
+1648286624140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286694313	Marionette	INFO	Stopped listening on port 62625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62722" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileQFqs4Z"
+1648286645566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileQFqs4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62722/devtools/browser/8fd068f0-fb94-453e-82a9-ab1f668001ab
+1648286648896	Marionette	INFO	Listening on port 62727
+1648286649368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286693773	Marionette	INFO	Stopped listening on port 62727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62812" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile4vXdk8"
+1648286671471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile4vXdk8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62812/devtools/browser/e78b05a2-bfb0-45f0-a635-6c603a39a959
+1648286674883	Marionette	INFO	Listening on port 62817
+1648286675188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286676899	Marionette	INFO	Stopped listening on port 62817
+1648286716123	geckodriver	INFO	Listening on 127.0.0.1:62924
+1648286719242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62925" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile7BurGc"
+1648286719817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofile7BurGc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62925/devtools/browser/f8c20710-7905-4706-9943-54ddda731e70
+1648286723477	Marionette	INFO	Listening on port 62930
+1648286723513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286725100	Marionette	INFO	Stopped listening on port 62930
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648286823195	geckodriver	INFO	Listening on 127.0.0.1:63049
+1648286826297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63050" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewCughS"
+1648286826762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewCughS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63050/devtools/browser/5a83f3b5-0e06-42c9-b61d-088db687919d
+1648286830081	Marionette	INFO	Listening on port 63057
+1648286830535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648286832098	Marionette	INFO	Stopped listening on port 63057
+1648287037482	geckodriver	INFO	Listening on 127.0.0.1:63255
+1648287040607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63256" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileAgBp9V"
+1648287041052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileAgBp9V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63256/devtools/browser/628e33a0-d355-4ee9-b47e-0b09cfc7d26a
+1648287043955	Marionette	INFO	Listening on port 63263
+1648287044360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648287045978	Marionette	INFO	Stopped listening on port 63263
+1648287434639	geckodriver	INFO	Listening on 127.0.0.1:58059
+1648287437758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58060" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileyOobzm"
+1648287438215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileyOobzm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58060/devtools/browser/e0939282-5ead-40c2-bfe1-7b3ad556d2bd
+1648287441238	Marionette	INFO	Listening on port 58066
+1648287441452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error writing response to: getEmbedderElement"
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "node.ownerDocument.csp is null"
+console.error: (new TypeError("node.ownerDocument.csp is null", "resource://devtools/shared/layout/utils.js", 919))
+console.error: "Failed to start [root-node] legacy listener for target server0.conn0.windowGlobal2147483653/windowGlobalTarget2" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648287599794	Marionette	INFO	Stopped listening on port 58066
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648287708334	geckodriver	INFO	Listening on 127.0.0.1:58220
+1648287711421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58221" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileUrypkT"
+1648287711889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileUrypkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58221/devtools/browser/03f06236-8d40-47f3-8d7f-135038b3a035
+1648287715029	Marionette	INFO	Listening on port 58227
+1648287715148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648287985946	Marionette	INFO	Stopped listening on port 58227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+\\rust_mozprofilebD4ABK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58325/devtools/browser/b4603ea5-155e-45ca-8a5a-64af3d812310
+1648287747109	Marionette	INFO	Listening on port 58330
+1648287747379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648287983544	Marionette	INFO	Stopped listening on port 58330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648314453943	geckodriver	INFO	Listening on 127.0.0.1:60444
+1648314457082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60445" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileNKKTd3"
+1648314457718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileNKKTd3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60445/devtools/browser/4c3c514a-cb8a-41c3-b9e1-e62cd9925982
+1648314461274	Marionette	INFO	Listening on port 60450
+1648314461306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314463601	Marionette	INFO	Stopped listening on port 60450
+1648314488477	geckodriver	INFO	Listening on 127.0.0.1:60535
+1648314491577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60536" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilenYGIbB"
+1648314492084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilenYGIbB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60536/devtools/browser/e625d06c-c771-4d74-9b4a-652978d99080
+1648314494758	Marionette	INFO	Listening on port 60541
+1648314495281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314497495	Marionette	INFO	Stopped listening on port 60541
+1648314517709	geckodriver	INFO	Listening on 127.0.0.1:60632
+1648314520823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60633" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileylvNb0"
+1648314521247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileylvNb0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60633/devtools/browser/889dbbee-5402-4b7d-a1bf-4d44d97db8cb
+1648314524320	Marionette	INFO	Listening on port 60638
+1648314524517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314525833	Marionette	INFO	Stopped listening on port 60638
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648314536233	geckodriver	INFO	Listening on 127.0.0.1:60723
+1648314539331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60724" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilePl6mXm"
+1648314539722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilePl6mXm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60724/devtools/browser/21808097-7606-4567-b38e-f253bcbd4cab
+1648314542462	Marionette	INFO	Listening on port 60730
+1648314542532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error writing response to: getEmbedderElement"
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "node.ownerDocument.csp is null"
+console.error: (new TypeError("node.ownerDocument.csp is null", "resource://devtools/shared/layout/utils.js", 919))
+console.error: "Failed to start [root-node] legacy listener for target server0.conn0.windowGlobal2147483653/windowGlobalTarget2" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483650/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648314636479	Marionette	INFO	Stopped listening on port 60730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+648314610503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314634182	Marionette	INFO	Stopped listening on port 60861648314635930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60946" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilenkLZIQ"
+1648314636631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilenkLZIQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60946/devtools/browser/4320d7ce-1207-412b-8824-2a73b65af5fa
+1648314640970	Marionette	INFO	Listening on port 60956
+1648314641279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314643892	Marionette	INFO	Stopped listening on port 60956
+1648314792070	geckodriver	INFO	Listening on 127.0.0.1:61109
+1648314795154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61110" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilehEGYtd"
+1648314795631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilehEGYtd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61110/devtools/browser/b79ad5fc-ce94-4065-84fe-5a6fc79fd3fb
+1648314798618	Marionette	INFO	Listening on port 61116
+1648314798878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648314800390	Marionette	INFO	Stopped listening on port 61116
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648315131774	geckodriver	INFO	Listening on 127.0.0.1:55158
+1648315134866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55159" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilepv7A6A"
+1648315135270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilepv7A6A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55159/devtools/browser/626b0d90-0889-4aaf-936d-9897e95ea6e8
+1648315138214	Marionette	INFO	Listening on port 55169
+1648315138554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648315187597	Marionette	INFO	Stopped listening on port 55169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55270" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileSvuE9q"
+1648315177671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileSvuE9q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55270/devtools/browser/7fef844a-bbf7-4b30-a5c8-4c5a6bcd1ba0
+1648315180654	Marionette	INFO	Listening on port 55275
+1648315180872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648315182443	Marionette	INFO	Stopped listening on port 55275
+1648315983667	geckodriver	INFO	Listening on 127.0.0.1:60003
+1648315986764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60004" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileYTFpn7"
+1648315987820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileYTFpn7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60004/devtools/browser/f71ab2e6-2d2e-4601-b523-f0614a0180e6
+1648315991064	Marionette	INFO	Listening on port 60009
+1648315991593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648316013299	Marionette	INFO	Stopped listening on port 60009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648316300611	geckodriver	INFO	Listening on 127.0.0.1:61772
+1648316303724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61773" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMxoZXd"
+1648316304249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofileMxoZXd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61773/devtools/browser/d278f334-16ab-49bb-b115-268edb31d2a5
+1648316307252	Marionette	INFO	Listening on port 61778
+1648316307436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648316308760	Marionette	INFO	Stopped listening on port 61778
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1648316587401	geckodriver	INFO	Listening on 127.0.0.1:62043
+1648316590503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62044" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilep8Xqno"
+1648316591208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilep8Xqno\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62044/devtools/browser/93bb9add-4f76-4633-8d8c-1c41414c57ab
+1648316594286	Marionette	INFO	Listening on port 62049
+1648316594748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648316596162	Marionette	INFO	Stopped listening on port 62049
+1648316657558	geckodriver	INFO	Listening on 127.0.0.1:62162
+1648316660652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62163" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewCQdNR"
+1648316661147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewCQdNR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62163/devtools/browser/81b7c4f1-19b0-429a-973b-c925ca637a6b
+1648316664228	Marionette	INFO	Listening on port 62168
+1648316664361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648316665687	Marionette	INFO	Stopped listening on port 62168
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648317153698	geckodriver	INFO	Listening on 127.0.0.1:51371
+1648317156823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51372" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewkgZRb"
+1648317157731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilewkgZRb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51372/devtools/browser/c026c50d-6c87-4e24-a93c-6b0dd15e191f
+1648317160806	Marionette	INFO	Listening on port 51377
+1648317161016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648317162326	Marionette	INFO	Stopped listening on port 51377
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1648317368968	geckodriver	INFO	Listening on 127.0.0.1:51561
+1648317372027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51562" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilembO71a"
+1648317372539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilembO71a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51562/devtools/browser/f5b8441d-a61f-44de-9b4b-77297ec09e2d
+1648317375723	Marionette	INFO	Listening on port 51568
+1648317376229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648317379637	Marionette	INFO	Stopped listening on port 51568
+1648317464221	geckodriver	INFO	Listening on 127.0.0.1:51544
+1648317467343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51545" "-no-remote" "-profile" "C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilevKf2Vo"
+1648317467976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd1\\AppData\\Local\\Temp\\rust_mozprofilevKf2Vo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51545/devtools/browser/9418b076-1485-4f02-b4d7-e924cb06014f
+1648317470940	Marionette	INFO	Listening on port 51550
+1648317471055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648317473557	Marionette	INFO	Stopped listening on port 51550

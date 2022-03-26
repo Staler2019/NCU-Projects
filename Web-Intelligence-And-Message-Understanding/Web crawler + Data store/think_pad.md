@@ -1,3 +1,4 @@
-<!-- ## make a worker that work while queue_size > 0
+# 2 pending website to crawler
 
-one thread check if the queue needs to work -->
+1. reddit
+2. liberty times

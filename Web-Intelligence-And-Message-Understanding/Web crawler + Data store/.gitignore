@@ -8,6 +8,9 @@ answer/*
 # file type
 *.txt
 view/*.py
+*.csv
+*.json
 
 # specific file
 tmp.py
+hash_table.txt
