@@ -1,0 +1,11 @@
+,url,article_title,article_id,author,view_number,score,summary,,最佳配對,pair_1,pair_2,pair_3,pair_4,pair_5,pair_6
+article_id,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,,Table1,url,article_title,article_id,author,view_number,score
+article_title,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,,Table2,article_id,summary,article_title,author,hot,like
+author,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,,,,,,,,
+hot,0.021029767,0.021029767,0.021029769,0.021029769,0.021029769,0.021029767,0.021029769,,successful pair,pair_1,pair_2,,,,
+like,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,0.021029769,,Table1,author,view_number,,,,
+summary,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,0.02102977,,Table2,author,hot,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,failed pair,pair_1,pair_2,pair_3,pair_4,,
+,,,,,,,,,Table1,url,article_title,article_id,score,,
+,,,,,,,,,Table2,article_id,summary,article_title,like,,

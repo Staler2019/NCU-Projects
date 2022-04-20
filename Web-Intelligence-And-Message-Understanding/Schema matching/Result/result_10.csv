@@ -1,0 +1,11 @@
+,title,year,metaScore,,最佳配對,pair_1,pair_2,pair_3
+title,0.021029769,0.021029769,0.021029769,,Table1,title,year,metaScore
+year,0.021029769,0.021029769,0.021029769,,Table2,title,year,rating
+rating,0.021029769,0.021029769,0.021029769,,,,,
+director,0.021029769,0.021029769,0.021029769,,successful pair,pair_1,pair_2,pair_3
+,,,,,Table1,title,year,metaScore
+,,,,,Table2,title,year,rating
+,,,,,,,,
+,,,,,failed pair,,,
+,,,,,Table1,,,
+,,,,,Table2,,,

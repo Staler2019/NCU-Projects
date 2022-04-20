@@ -1,0 +1,11 @@
+,col1,col2,col3,col4,col5,,最佳配對,pair_1,pair_2,pair_3,pair_4,pair_5
+author,0.021029772,0.02102977,0.02102977,0.02102977,0.021029772,,Table1,col1,col5,col3,col2,col4
+tag,0.021029772,0.02102977,0.02102977,0.02102977,0.021029772,,Table2,author,tag,media_thumbnail,link,title
+link,0.02102977,0.021029769,0.021029769,0.021029769,0.02102977,,,,,,,
+media_thumbnail,0.02102977,0.021029769,0.02102977,0.021029769,0.02102977,,successful pair,pair_1,pair_2,pair_3,,
+title,0.02102977,0.021029769,0.02102977,0.021029769,0.02102977,,Table1,col3,col2,col4,,
+published_time,0.021029772,0.021029769,0.021029769,0.021029769,0.02102977,,Table2,media_thumbnail,link,title,,
+,,,,,,,,,,,,
+,,,,,,,failed pair,pair_1,pair_2,,,
+,,,,,,,Table1,col1,col5,,,
+,,,,,,,Table2,author,tag,,,

@@ -1,0 +1,11 @@
+,subtopic,標題,作者,日期,,最佳配對,pair_1,pair_2,pair_3,pair_4
+title,0.021029765,0.021029765,0.021029765,0.021029765,,Table1,作者,subtopic,標題,日期
+author,0.021029767,0.021029767,0.021029767,0.021029767,,Table2,board,author,date,title
+board,0.021029767,0.021029767,0.021029769,0.021029767,,,,,,
+date,0.021029767,0.021029767,0.021029767,0.021029767,,successful pair,,,,
+,,,,,,Table1,,,,
+,,,,,,Table2,,,,
+,,,,,,,,,,
+,,,,,,failed pair,pair_1,pair_2,pair_3,pair_4
+,,,,,,Table1,作者,subtopic,標題,日期
+,,,,,,Table2,board,author,date,title

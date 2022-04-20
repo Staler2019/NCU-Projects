@@ -1,2 +1,7 @@
-# /Data/*
-/Result/*
+/Data/*
+# /Result/*
+test.txt
+test.py
+*.log
+bert-model/*
+word2vec-model/*

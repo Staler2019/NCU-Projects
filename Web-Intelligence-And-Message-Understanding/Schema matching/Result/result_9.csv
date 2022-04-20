@@ -1,0 +1,11 @@
+,url,title,price,,最佳配對,pair_1,pair_2,pair_3
+col1,0.021029769,0.021029769,0.021029772,,Table1,price,url,title
+col2,0.021029765,0.021029765,0.021029765,,Table2,col1,col2,col3
+col3,0.021029765,0.021029765,0.021029765,,,,,
+col4,0.021029765,0.021029765,0.021029769,,successful pair,,,
+,,,,,Table1,,,
+,,,,,Table2,,,
+,,,,,,,,
+,,,,,failed pair,pair_1,pair_2,pair_3
+,,,,,Table1,price,url,title
+,,,,,Table2,col1,col2,col3

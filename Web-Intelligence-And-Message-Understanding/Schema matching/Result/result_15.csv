@@ -1,0 +1,11 @@
+,url,article_title,date,content,,最佳配對,pair_1,pair_2,pair_3,pair_4
+url,0.021029769,0.021029769,0.021029765,0.021029763,,Table1,article_title,url,date,content
+article_id,0.02102977,0.021029772,0.021029767,0.021029765,,Table2,article_id,author,date,url
+article_title,0.021029769,0.021029769,0.021029763,0.021029763,,,,,,
+author,0.02102977,0.02102977,0.021029765,0.021029765,,successful pair,pair_1,,,
+date,0.02102977,0.021029772,0.021029767,0.021029765,,Table1,date,,,
+content,0.021029767,0.021029769,0.021029763,0.021029763,,Table2,date,,,
+,,,,,,,,,,
+,,,,,,failed pair,pair_1,pair_2,pair_3,
+,,,,,,Table1,article_title,url,content,
+,,,,,,Table2,article_id,author,url,
