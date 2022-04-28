@@ -1,0 +1,4 @@
+/data/*
+!/data/*.zip
+
+/hw/acl-ijcnlp2021-templates
