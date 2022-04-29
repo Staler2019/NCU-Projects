@@ -1,3 +1,9 @@
 /hw/acl-ijcnlp2021-templates
 /hw/BERT Named Entity Recognition Code
-/crf++/crfpp downloads
+/crf++-0.58/*
+!/CRF++-0.58/example/chunking/*out*.*
+!/CRF++-0.58/example/chunking/conlleval.pl
+!/CRF++-0.58/example/chunking/my_exec.ps1
+/venv
+
+my_ner

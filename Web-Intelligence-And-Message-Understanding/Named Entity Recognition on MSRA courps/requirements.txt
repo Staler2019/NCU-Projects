@@ -1,0 +1,15 @@
+# tensorflow==2.3.0-rc1
+tensorflow==2.3.0
+sklearn
+pandas
+IPython
+keras
+tqdm
+xlrd
+openpyxl
+# conda install -c anaconda ipython
+matplotlib
+tensorflow_hub
+transformers==4.4.2
+gin-config
+tensorflow_addons
