@@ -1,3 +1,0 @@
-aes:aes code
-time,cleardog,sdkddkver,regs240x: calculate the time of code
-sqldb: sql functions
