@@ -1,4 +1,0 @@
-<url, url>
-<article_title, article_title>
-<date, date>
-<content, content>

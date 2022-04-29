@@ -1,5 +1,0 @@
-<url, url>
-<img, img_url>
-<name, name>
-<information, info>
-<price, price>

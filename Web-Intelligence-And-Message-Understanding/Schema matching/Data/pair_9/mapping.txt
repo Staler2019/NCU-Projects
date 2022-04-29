@@ -1,3 +1,0 @@
-<url, col1>
-<title, col2>
-<price, col4>
