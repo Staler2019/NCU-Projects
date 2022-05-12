@@ -1,5 +1,4 @@
-# tensorflow==2.3.0-rc1
-tensorflow
+tensorflow==2.5.0
 sklearn
 pandas
 IPython
@@ -10,9 +9,7 @@ openpyxl
 # conda install -c anaconda ipython
 matplotlib
 tensorflow_hub
-# transformers==4.4.2
-transformers
+transformers==4.4.2
 gin-config
 tensorflow_addons
-bert-for-tf2
-tf-models-official
+params-flow

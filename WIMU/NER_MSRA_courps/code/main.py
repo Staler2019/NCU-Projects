@@ -4,6 +4,9 @@
 # @Email : luff543@gmail.com
 # @File : main.py
 # @Software: PyCharm
+import sys
+
+sys.path.extend(['./package/bert-for-tf2','./package/models-master'])
 
 import argparse
 import random
@@ -18,6 +21,7 @@ from engines.configure import Configure
 from engines.utils.io import fold_check
 from engines.utils.logger import get_logger
 from engines.predict import Predictor
+
 
 def set_env(configures):
     random.seed(configures.seed)

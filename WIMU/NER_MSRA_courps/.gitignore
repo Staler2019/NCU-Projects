@@ -6,5 +6,5 @@
 # !/CRF++-0.58/example/chunking/my_exec.ps1
 **/venv
 **/__pycache__
-/code/data/example_datasets_msra/logs/*.log
-
+/.archieve
+**/checkpoints
