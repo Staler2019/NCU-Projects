@@ -1,9 +1,9 @@
 # install with conda
 
-conda activate wimuta_hw3_ner_env
+# conda activate wimuta_hw3_ner_env
 
 pip install -r .\requirements.txt
-conda install -c anaconda ipython
+# conda install -c anaconda ipython
 
 ### end of installation of env
 

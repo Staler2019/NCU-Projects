@@ -8,3 +8,5 @@
 **/__pycache__
 /.archieve
 **/checkpoints
+/report/*
+!/report/*.pdf
