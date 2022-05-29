@@ -4,23 +4,22 @@ import pandas as pd
 from pathlib import Path
 import re
 
-from engines.configure import Configure
-
 TEST_FILE = "../data/test.csv"
+STOPWORD_FILE = "../spacy_stopwords/zh.txt"
 
 
 if __name__ == "__main__":
     # config = Configure()
     reg = re.compile("[/\n]")
+    stopwords = [word.lower().split('\n')[0] for word in open(STOPWORD_FILE, 'r', encoding='UTF-8')]
+
     # yake setting: can add self stopword
-    kw_extractor = yake.KeywordExtractor(lan="zh", n=1, top=10)
+    kw_extractor = yake.KeywordExtractor(lan="zh", n=1, top=10, stopwords=stopwords)
 
     df = pd.read_csv(TEST_FILE).astype(str)
     df.dropna()
-    # tmp_df = pd.DataFrame(df[df.columns[1]].astype(str))
-
+    
     predict = {"title": [], "content": [], "keywords": []}
-    success = 0
     for row in df.index:
         # print(row)
         predict["title"].append(df[df.columns[0]][row])

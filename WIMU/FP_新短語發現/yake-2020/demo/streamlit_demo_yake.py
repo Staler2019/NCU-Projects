@@ -10,6 +10,7 @@ import jieba
 import pandas as pd
 
 TEST_FILE = "../../data/test.csv"
+STOPWORD_FILE = "../../spacy_stopwords/zh.txt"
 
 st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
 HTML_WRAPPER = """<div style="overflow-x: hidden; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem; margin-bottom: 2.5rem">{}</div>"""
@@ -51,7 +52,9 @@ text = st.text_area("Selected text", df[df.columns[1]][selected_input_text], 330
 language = "zh"
 
 #use yake to extract keywords
-custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedupLim=deduplication_thresold, dedupFunc=deduplication_algo, windowsSize=windowSize, top=numOfKeywords, features=None)
+stopwords = [word.lower().split('\n')[0] for word in open(STOPWORD_FILE, 'r', encoding='UTF-8')]
+
+custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedupLim=deduplication_thresold, dedupFunc=deduplication_algo, windowsSize=windowSize, top=numOfKeywords, features=None, stopwords=stopwords)
 cut_text = re.sub("[/\n]", " ", text)
 cut_text = " ".join(list(jieba.cut_for_search(cut_text)))
 keywords = custom_kw_extractor.extract_keywords(cut_text)
