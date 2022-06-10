@@ -1,4 +1,4 @@
-import yake
+import yake # https://github.com/LIAAD/yake
 import jieba
 import pandas as pd
 from pathlib import Path
@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     df = pd.read_csv(TEST_FILE).astype(str)
     df.dropna()
-    
+
     predict = {"title": [], "content": [], "keywords": []}
     for row in df.index:
         # print(row)

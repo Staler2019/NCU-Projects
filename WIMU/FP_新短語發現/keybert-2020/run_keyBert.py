@@ -1,9 +1,8 @@
-from keybert import KeyBERT
+from keybert import KeyBERT # https://github.com/MaartenGr/KeyBERT
 import pandas as pd
 from pathlib import Path
 import re
 import jieba
-import spacy
 
 STOPWORD_FILE = "../spacy_stopwords/zh.txt"
 TEST_FILE = "../data/test.csv"
